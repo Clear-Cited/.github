@@ -18,8 +18,25 @@ Clear Cited measures **share-of-model** — how often each AI engine recommends 
 
 ### Free & open source
 
+Five tools, MIT-licensed, each archived on Zenodo with a DOI. They fit together:
+find what a page is missing, fix it, then measure whether it moved.
+
+**Measure**
+
+- **[aeo-audit-lite](https://github.com/Clear-Cited/aeo-audit-lite)** — run a buyer prompt against an AI engine repeatedly and measure your *share of model* versus named competitors, with a Wilson 95% confidence interval. `pip install aeo-audit-lite`
+
+**Diagnose**
+
+- **[citation-ready](https://github.com/Clear-Cited/citation-ready)** — check whether a page carries the structural signals observed on content AI engines tend to cite. `pip install citation-ready`
+
+**Fix**
+
+- **[schema-for-ai](https://github.com/Clear-Cited/schema-for-ai)** — copy-paste JSON-LD templates tuned for AI extraction, plus a zero-dependency validator. `pip install schema-for-ai`
+- **[schema-generator](https://github.com/Clear-Cited/schema-generator)** — build valid Organization / Product / FAQPage JSON-LD in your browser.
 - **[llms-txt-generator](https://github.com/Clear-Cited/llms-txt-generator)** — generate a clean `llms.txt` for your site, in your browser.
-- **[schema-generator](https://github.com/Clear-Cited/schema-generator)** — generate valid Organization / Product / FAQPage JSON-LD.
+
+**Also**
+
 - **[measured-by-clear-cited](https://github.com/Clear-Cited/measured-by-clear-cited)** — the "Measured by Clear Cited" badge (SVG + embed).
 
 ### Start here
