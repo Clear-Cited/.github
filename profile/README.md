@@ -39,6 +39,16 @@ find what a page is missing, fix it, then measure whether it moved.
 
 - **[measured-by-clear-cited](https://github.com/Clear-Cited/measured-by-clear-cited)** — the "Measured by Clear Cited" badge (SVG + embed).
 
+### Open data
+
+The Index is published as an open dataset — **4,497 measured AI answers** across nine B2B categories, **CC BY 4.0**.
+
+- **Cite this** — [10.5281/zenodo.21612952](https://doi.org/10.5281/zenodo.21612952) (concept DOI, always resolves to the latest release)
+- **Protocol** — [10.5281/zenodo.21614890](https://doi.org/10.5281/zenodo.21614890) · pre-registration at [osf.io/cd9q2](https://osf.io/cd9q2)
+- **Mirrors** — [Kaggle](https://www.kaggle.com/datasets/clearcited/ai-visibility-index-which-products-ai-recommend) · [Hugging Face](https://huggingface.co/datasets/LoganAdams-ClearCited/Clear_Cited_AI_Visibility_Index)
+
+Every repository here is also mirrored to **[Codeberg](https://codeberg.org/clear-cited)**, release tags included.
+
 ### Start here
 
 → **[Get a free AI-visibility teardown](https://clearcited.com/free-teardown/)** — your domain + a couple of competitors, a short video + one-pager back.
