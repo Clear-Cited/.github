@@ -37,7 +37,7 @@ find what a page is missing, fix it, then measure whether it moved.
 
 **Also**
 
-- **[measured-by-clear-cited](https://github.com/Clear-Cited/measured-by-clear-cited)** — the "Measured by Clear Cited" badge (SVG + embed).
+- **[measured-by-clear-cited](https://github.com/Clear-Cited/measured-by-clear-cited)** — the "Measured by Clear Cited" badge (SVG + embed). Brand assets, so **CC BY-ND 4.0**, not MIT — redistribute freely, but don't alter the mark. See [BRAND.md](https://github.com/Clear-Cited/measured-by-clear-cited/blob/main/BRAND.md).
 
 ### Open data
 
